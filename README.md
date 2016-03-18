@@ -1,2 +1,2 @@
 # Project-Euler
-Project Euler solutions
+Project Euler solutions written in either Python or Julia
