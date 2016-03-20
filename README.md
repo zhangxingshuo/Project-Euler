@@ -1,2 +1,2 @@
 # Project-Euler
-Project Euler solutions written in either Python or Julia
+Project Euler solutions written in Java, Python, and Julia
