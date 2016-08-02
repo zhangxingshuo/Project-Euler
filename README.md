@@ -2,6 +2,8 @@
 Project Euler solutions written in Java, Python, and Julia
 
 ## Useful solutions
+Euler #002 has a function that generates the prime factors of a number.
+
 Euler #004 has a function that tests if a number is a palindrome.
 
 Euler #007 has the Sieve of Eratosthenes, an efficient algorithm for generating <i>n</i> prime numbers. 
